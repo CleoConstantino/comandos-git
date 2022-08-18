@@ -1,6 +1,8 @@
+![git](https://user-images.githubusercontent.com/59203960/185465312-a92834d6-f7a9-467c-971b-a85be9573844.png)
+
 ## Descrição
 
-    Este repositório tem como objetivo apenas armazenar as inforamações de forma prática de como utilizar os comandos e controle de versionamento do Git.
+Este repositório tem como objetivo apenas armazenar as informações de forma prática de como utilizar os comandos e controle de versionamento do Git.
 
 ## Instalação e configuração
 
@@ -23,7 +25,7 @@ Criar uma pasta:
 
 Entrar na pasta:
 
-    cd projetogit
+    cd nome-da-pasta
 
 Listar os arquivos dentro da pasta:
 
@@ -84,6 +86,10 @@ Mudar a branch:
 
     git branch -M "nome-da-branch"
 
+Verificar os commits enviados:
+    
+    git log --oneline
+
 ## Enviar os commits para o GitHub
 
 Criar um repositório o github e fazer algumas configurações de SSH (a chave 'publica' é configurada no github, e a chave privada fica no computador).
@@ -140,7 +146,3 @@ Pra copiar um projeto do github: clica no botão 'Code' > na aba SSH copia o có
     git push origin master
 
 Para saber mais sobre os status, acessar [esse link](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio).
-
-## Desenvolvedores
-
-| [<width=115><br><sub>CLéo Constantino</sub>](https://github.com/CleoConstantino) | 
