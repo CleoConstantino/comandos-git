@@ -1,4 +1,4 @@
-![git2](https://user-images.githubusercontent.com/59203960/185464312-1f90fb52-5b0c-4cb7-b34c-b45835e61328.png)
+![git](https://user-images.githubusercontent.com/59203960/185465312-a92834d6-f7a9-467c-971b-a85be9573844.png)
 
 ## Descrição
 
