@@ -1,6 +1,6 @@
 ## Descrição
 
-    Este repositório tem como objetivo apenas armazenar as inforamações de forma prática de como utilizar os comandos e controle de versionamento do Git.
+Este repositório tem como objetivo apenas armazenar as informações de forma prática de como utilizar os comandos e controle de versionamento do Git.
 
 ## Instalação e configuração
 
@@ -83,6 +83,10 @@ Verificar a branch que está sendo usada:
 Mudar a branch:
 
     git branch -M "nome-da-branch"
+
+Verificar os commits enviados:
+    
+    git log --oneline
 
 ## Enviar os commits para o GitHub
 
