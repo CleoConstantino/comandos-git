@@ -1,3 +1,5 @@
+![git2](https://user-images.githubusercontent.com/59203960/185464312-1f90fb52-5b0c-4cb7-b34c-b45835e61328.png)
+
 ## Descrição
 
 Este repositório tem como objetivo apenas armazenar as informações de forma prática de como utilizar os comandos e controle de versionamento do Git.
@@ -23,7 +25,7 @@ Criar uma pasta:
 
 Entrar na pasta:
 
-    cd projetogit
+    cd nome-da-pasta
 
 Listar os arquivos dentro da pasta:
 
