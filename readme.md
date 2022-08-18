@@ -146,3 +146,5 @@ Pra copiar um projeto do github: clica no botão 'Code' > na aba SSH copia o có
     git push origin master
 
 Para saber mais sobre os status, acessar [esse link](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio).
+
+
