@@ -112,7 +112,7 @@ Para acessar a chave, deve estar na pasta onde a chave foi criada e dar o comand
 
 Copiar a chave;
  
-Para congigurar a chave SSH no conmputador deve-se rodar mais dois comandos:
+Para configurar a chave SSH no computador deve-se rodar mais dois comandos:
 
     eval `ssh-agent`
     ssh-add nome-da-ssh-privada
