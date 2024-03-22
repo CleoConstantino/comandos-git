@@ -10,11 +10,11 @@ Este repositório tem como objetivo apenas armazenar as informações de forma p
 
 2º passo: configuração de forma global para poder fazer os commits, configurar o nome:
 
-    git config --global user.name "Cléo Constantino"
+    git config --global user.name "Digite seu nome"
 
 3º passo: configurar o e-mail: (o e-mail deve ser o mesmo do cadastro do github, se não não vai vincular ao perfil do git):
 
-    git config --global user.email "cleoconstantino@outlook.com"
+    git config --global user.email "Digite seu e-mail"
 
 
 ## Comandos
@@ -92,7 +92,7 @@ Verificar os commits enviados:
 
 ## Enviar os commits para o GitHub
 
-Criar um repositório o github e fazer algumas configurações de SSH (a chave 'publica' é configurada no github, e a chave privada fica no computador).
+Criar um repositório o github e fazer algumas configurações de SSH (a chave 'pública' é configurada no github, e a chave privada fica no computador).
 
 Passo a passo:
 Fazer o login no GitHub > Perfil > Settings > SSH and GPG keys > New SSH key > Colocar um titulo > e na caixa 'Key' colocar a chave pública.
@@ -102,7 +102,9 @@ Abrir o terminal,  dar o comando:
 
     ssh-keygen
 
-Após esse comando, o ternimal pergunta se quer colocar um nome na chave, se não quiser é só apertar enter. Em seguida vai perguntar se deseja colocar uma senha, para deixar vazio é só dar enter. Ao dar o comando 'ls', vai mostrar os arquivos criados, e o arquivo com a extensão '.pub' é a chave pública criada.
+Após esse comando, o ternimal pergunta se quer colocar um nome na chave, se não quiser é só apertar enter. 
+Em seguida vai perguntar se deseja colocar uma senha, para deixar vazio é só dar enter. 
+Ao dar o comando 'ls', vai mostrar os arquivos criados, e o arquivo com a extensão '.pub' é a chave pública criada.
 
 Para acessar a chave, deve estar na pasta onde a chave foi criada e dar o comando abaixo:
 
@@ -117,7 +119,7 @@ Para congigurar a chave SSH no conmputador deve-se rodar mais dois comandos:
 
 No GitHub > colar a chave copiada anteriormente e clicar em 'Add SSH key';
 
-Agora criar um repositório > ao criar o git já vai sugerir os comandos quando o repositório já está criado(dar o comando dentro da pasta que você quer conectar com o Git):
+Agora criar um repositório > ao criar o git já vai sugerir os comandos quando o repositório já está criado (dar o comando dentro da pasta que você quer conectar com o Git):
 
     git remote add origin colar-o-caminho-do-repositorio
     git push origin master
@@ -129,7 +131,7 @@ Baixar os aquivos alterados:
 
     git pull origin master
 
-Deipois de baixar, para mostrar as informações dentro do arquivo:
+Depois de baixar, para mostrar as informações dentro do arquivo:
 
     cat nome-do-arquivo
 
