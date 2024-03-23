@@ -79,6 +79,11 @@ Remover uma pasta:
 
     rm -rf nomedapasta
 
+Criar uma nova branch:  
+
+      git branch 'nome da nova branch'
+
+
 Verificar a branch que está sendo usada:
 
     git branch
