@@ -3,7 +3,7 @@
 ## Descrição
 
 Este repositório tem como objetivo apenas armazenar as informações de forma prática de como utilizar os comandos e controle de versionamento do Git. Essas informações foram extraídas do YouTube, do canal da Rocketseat. 
-Segue os link do vídeo: https://www.youtube.com/watch?v=E28J23gCBIs&t=1121s
+Segue o link do vídeo: https://www.youtube.com/watch?v=E28J23gCBIs&t=1121s
 
 ## Instalação e configuração
 
